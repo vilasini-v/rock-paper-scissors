@@ -1,0 +1,45 @@
+*{
+    background-color: rgb(248, 236, 222)
+}
+.rock{
+    margin-left: 450px;
+    margin-top: 50px;
+    border: none;
+    outline: auto;
+    outline-color: rgb(161, 186, 207);
+    background-color: rgb(112,146,190);
+}
+img{
+    height : 150px;
+    width : 150px;
+}
+
+.paper{
+    margin-left: 50px;
+    margin-top: 50px;
+    border: none;
+    outline: auto;
+    outline-color: rgb(161, 186, 207);
+    background-color: rgb(112,146,190);
+}
+.scissor{
+    margin-left: 50px;
+    margin-top: 50px;
+    border: none;
+    outline: auto;
+    outline-color: rgb(161, 186, 207);
+    background-color: rgb(112,146,190);
+}
+.text{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    margin-top: 75px;
+    padding: none;
+    background-color: none;
+}
+.reset{
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 715px;
+}
