@@ -66,7 +66,7 @@ function comp3(){
 
 function reset(){
     score.wins=0;
-    score.losses=0;
+    score.loses=0;
     score.ties=0;
     document.getElementById('message').innerHTML = `Scores are reset`;
     document.getElementById('score').innerHTML = `Wins: ${score.wins} Losses: ${score.loses} Ties: ${score.ties}`;}
